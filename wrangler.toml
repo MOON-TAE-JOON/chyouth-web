@@ -1,0 +1,8 @@
+name = "chyouth-web"
+compatibility_date = "2026-11-19"
+pages_build_output_dir = "."
+
+[[d1_databases]]
+binding = "DB"
+database_name = "changil-youth-db"
+database_id = "d4803ff0-c459-4408-8be9-ef55c8ae175e"
