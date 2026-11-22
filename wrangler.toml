@@ -1,6 +1,6 @@
 name = "chyouth-web"
-compatibility_date = "2026-11-19"
-pages_build_output_dir = "."
+compatibility_date = "2026-11-22"
+pages_build_output_dir = "./public"
 
 [[d1_databases]]
 binding = "DB"
